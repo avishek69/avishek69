@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avishek
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning  Web development
-- 💞️ I’m looking to collaborate on MERN Stack developer
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning  Web Development
+- 💞️ I’m looking to collaborate on MERN Stack Developer
 - 📫 How to reach me | insta - av1sh3k
 
 <!-- -
