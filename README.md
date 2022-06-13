@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning  Web Development
 - 💞️ I’m looking to collaborate on MERN Stack Developer
-- 📫 How to reach me | insta - av1sh3k
+- 📫 How to reach me | insta - _av1sh3k
 
 <!-- -
 avishek69/avishek69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
